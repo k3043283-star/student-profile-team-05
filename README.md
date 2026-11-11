@@ -3,11 +3,11 @@
 This project contains student information using HTML,Git and Git Hub.
 
 ##Team Members
-1.Student 1-Team leader
-2.Student 2- Profile developer
-3.Student 3- Skills developer
-4.Student 4- Contact developer
-5.Student 5- Education developer
+1.Khushboo-Team leader
+2.Anushka Madhukar Pawar - Profile developer
+3.KRISHNA SAI MUKUND- Skills developer
+4.Venkata Keerthan- Contact developer
+5.DIKSHA DIKSHA- Education developer
 
 ##Technologies
 .HTML
